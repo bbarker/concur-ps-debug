@@ -1,6 +1,6 @@
 # Live Demo
 
-[github.io/bbarker/concur-ps-debug](github.io/bbarker/concur-ps-debug)
+[http://bbarker.github.io/concur-ps-debug](http://bbarker.github.io/concur-ps-debug)
 
 [![Build Status](https://travis-ci.org/bbarker/concur-ps-debug.svg?branch=master)](https://travis-ci.org/bbarker/concur-ps-debug)
 
