@@ -6,12 +6,7 @@ import Effect                            (Effect)
 import Effect.Aff                        (Aff)
 import Effect.Class                      (liftEffect)
 import Effect.Console                    (logShow)
-import Test.Unit.Assert                  as Assert
-import Text.Email.Validate               as EA
-import Text.URL.Validate                 as URL
-
-import Metajelo.Types                    as MJ
-import Metajelo.XPaths                   as MXP
+-- import Test.Unit.Assert                  as Assert
 
 main :: Effect Unit
 main = pure unit
